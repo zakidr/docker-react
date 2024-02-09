@@ -7,4 +7,3 @@ before_install:
 
 script:
   - docker run zakidr789/docker-react npm run test -- --coverage 
-
